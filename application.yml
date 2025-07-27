@@ -163,7 +163,7 @@ lavalink:
     - dependency: "com.github.topi314.sponsorblock:sponsorblock-plugin:3.0.1"
       snapshot: false
   server:
-    password: "reedrouxbiznode1s"
+    password: "reedrouxbot"
     sources:
       # The default Youtube source is now deprecated and won't receive further updates. Please use https://github.com/lavalink-devs/youtube-source#plugin instead.
       youtube: false
